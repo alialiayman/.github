@@ -23,7 +23,7 @@
 
 ## Professional Experience 🚀
 
-- **Senior Full Stack Developer (Contract)** at Thermofisher (Sep 2020 – Present)
+- **Senior Full Stack Developer** at Thermofisher (Sep 2020 – Present)
 - **Senior Full Stack Developer/Architect** at CloudVirga (Nov 2017 – Sep 2020)
 - **Senior Full Stack Developer** at Kaiser Permanente (Nov 2013 – Nov 2017)
 
