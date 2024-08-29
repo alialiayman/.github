@@ -1,29 +1,40 @@
-### Hi there, I'm Ayman A! 👋
+# Hi there, I'm Ayman Ali! 👋
 
-I'm a passionate software professional working in the field of front-end development, and I love crafting amazing user experiences. Here's a glimpse of what I'm all about:
+🚀 **Passionate Software Engineer** with over a decade of experience in full-stack development, specializing in **Front-End Development** with a strong focus on **React**. I'm dedicated to crafting amazing user experiences and scalable, reliable applications.
 
-- 🚀 **Front-End Enthusiast**: I'm truly passionate about front-end development, especially with React. Creating responsive and user-friendly interfaces is my jam! 🌟
+## Expertise & Skills 💻
 
-- 💎 **Design Systems Lover**: I enjoy working with design systems to ensure consistency and elegance in every project. A well-crafted design system can make all the difference! 💡
+- **Front-End Development**: Proficient in React and advanced libraries like Redux, Redux-toolkit, Thunk, Router, Generators, Hooks, and server-side rendering with Next.js.
+- **Design Systems**: Enthusiast of design systems, ensuring consistency and elegance in every project.
+- **Asynchronous Communication**: Experienced in environments that thrive on asynchronous communication, particularly with tools like [LiveKit](https://livekit.io/).
+- **Back-End Development**: Skilled in developing RESTful microservices using Node.js, GraphQL, Postgres, TypeORM, Loopback, and Dockerization.
+- **Cloud & DevOps**: Extensive experience with Amazon Web Services, Google Cloud, Firebase, Kubernetes, Docker, and CI/CD pipelines.
+- **Performance Optimization**: Proficient in analytics tools like Google Analytics and Adobe Analytics to optimize application performance.
+- **Database Management**: In-depth knowledge of relational databases and data modeling.
 
-- 💬 **Asynchronous Communication Fanatic**: I thrive in asynchronous communication environments, especially when it comes to messaging and tools like [LiveKit](https://livekit.io/) which make real-time experiences come to life! 📢
+## Notable Projects 📌
 
-- 🌐 **Tech Stack**: My arsenal includes technologies like Stripe, Firebase, and many more. I'm always eager to explore new tools to enhance my projects! 💻
+1. **Node-MicroService**: A robust API built with Node.js and Express, featuring JWT-based security and Dockerization for easy hosting.
+2. **React-Firebase**: A full React app for storing, retrieving, and editing customer data on Firebase, supporting multiple users and offering high performance.
+3. **React-Game**: A fun board game developed with React.js, showcasing creativity and responsive design.
+4. **Casual**: A collection of unique React apps, including a color harmonization tool and a birthday reminder app.
+5. **Eager-Scrummer**: An app to track your sprint days in SCRUM, eliminating the guesswork of which day it is.
+6. **Tvmaze**: A React-Redux app for searching movies with detailed descriptions, photos, and ratings.
 
-### 📌 Pinned Repositories
+## Professional Experience 🚀
 
-Here are some of my projects that you might find interesting:
+- **Senior Full Stack Developer (Contract)** at Thermofisher (Sep 2020 – Present)
+- **Senior Full Stack Developer/Architect** at CloudVirga (Nov 2017 – Sep 2020)
+- **Senior Full Stack Developer** at Kaiser Permanente (Nov 2013 – Nov 2017)
 
-1. [**Node-MicroService**](https://github.com/alialiayman/Node-MicroService): An API created with Node.js and Express, featuring JWT-based security and Dockerization for easy hosting. 🌐
+## Education 📚
 
-2. [**react-game**](https://github.com/alialiayman/react-game): A fun board game developed with React.js. Try it out and use the keyboard arrows to navigate the board! 🎮
+- **M.Sc. in Computer Science** from Harvard University (2008-2017)
+- **B.Sc. in Computer Science, Software Engineering** from Cairo University (1988-1993)
 
-3. [**React-Firebase**](https://github.com/alialiayman/React-Firebase): A full React app for storing, retrieving, and editing customer data on Firebase. It's multi-user and highly performant! 🔥
+## Contact Me 📱
 
-4. [**Casual**](https://github.com/alialiayman/Casual): A collection of unique React apps, including a color harmonization tool and a birthday reminder app. 🎨🎂
-
-5. [**eager-scrummer**](https://github.com/alialiayman/eager-scrummer): An interesting app to track your sprint days in the SCRUM methodology. No more guessing which day it is! 📅
-
-6. [**tvmaze**](https://github.com/alialiayman/tvmaze): A React-Redux app for searching movies, complete with descriptions, photos, and ratings. Creativity meets CSS in displaying search results! 🎥
-
-Feel free to explore these repositories to see my work in action. If you have any questions or just want to chat about front-end development, don't hesitate to reach out. Let's create awesome things together! 🚀
+- **Phone**: (949) 522-1879
+- **Email**: aliayman@alumni.harvard.edu
+- **GitHub**: [github.com/alialiayman](https://github.com/alialiayman) 🐙
+- **LinkedIn**: [linkedin.com/in/alialiayman](https://linkedin.com/in/alialiayman) 🤝
