@@ -80,3 +80,6 @@
 
 - **Phone**: (949) 522-1879
 - **Email**: aliayman@alumni.harvard.edu
+
+Download my PDF resume
+[ayman-resume.pdf](https://github.com/user-attachments/files/17608024/ayman-resume.pdf)
