@@ -1,71 +1,18 @@
-# Ayman Ali
+# Hi there, I'm Ayman Ali! 👋
 
-**Location:** Irvine, CA 92604  
-**Phone:** (949) 522-1879  
-**Email:** aliayman@alumni.harvard.edu  
-**GitHub:** [github.com/alialiayman](https://github.com/alialiayman)  
-**LinkedIn:** [linkedin.com/in/alialiayman](https://linkedin.com/in/alialiayman)  
-**Work Authorization:** American Citizen  
+🚀 **Passionate Software Engineer** with over a decade of experience in full-stack development, specializing in **Front-End Development** with a strong focus on **React**. I'm dedicated to crafting amazing user experiences and scalable, reliable applications.
 
 ---
 
-## Hi there, I'm Ayman Ali! 👋
-
-🚀 **Passionate Software Engineer** with over a decade of experience in full-stack development, specializing in **Front-End Development** with a strong focus on **React**. Dedicated to crafting amazing user experiences and scalable, reliable applications.
-
----
-
-## Core Expertise
+## Core Expertise 💻
 
 - **Front-End Development**: Proficient in ReactJS, Redux, React-Native, Next.js, and Material-UI, building scalable, responsive applications with optimized, reusable components.
-- **Advanced State Management**: Skilled in complex state solutions using Redux and React Context API, with optimized rendering techniques using hooks like `useState`, `useEffect`, and `useMemo`.
-- **Data & API Integration**: Experienced with RESTful APIs, GraphQL, React Router, lazy loading, and code splitting for performance optimization.
-- **Server-Side Rendering**: Expertise in SSR and SSG with Next.js, improving loading speeds and SEO.
-- **UI Engineering**: Skilled in JavaScript (ES6+), TypeScript, and CSS-in-JS libraries like Styled Components and Emotion for maintainable UI architectures.
-- **Asynchronous Communication**: Extensive experience with tools like [LiveKit](https://livekit.io/) for asynchronous communication.
-- **Back-End Development**: Skilled in Node.js, GraphQL, Postgres, TypeORM, and Dockerization.
-- **Cloud & DevOps**: Proficient in AWS, Google Cloud, Firebase, Kubernetes, Docker, and CI/CD pipelines.
-- **Database Management**: In-depth knowledge of relational databases and data modeling.
-- **Performance Optimization**: Proficient in Google Analytics and Adobe Analytics for performance insights.
-- **AI & Integrations**: Experienced in training AI models using TensorFlow and Hugging Face, and integrating third-party services like Stripe, Calendly, and Mux.
-
----
-
-## Notable Projects 📌
-
-1. **Node-MicroService**: Developed a robust API with Node.js and Express, featuring JWT-based security and Dockerization.
-2. **React-Firebase**: Built a full React app for customer data management on Firebase.
-3. **React-Game**: Created a board game with responsive design using React.
-4. **Casual**: Developed unique React apps, such as a color harmonization tool and a birthday reminder.
-5. **Eager-Scrummer**: SCRUM sprint tracker for agile teams.
-6. **Tvmaze**: A movie search app using React-Redux for detailed movie info.
-
----
-
-## Professional Experience 🚀
-
-### Front-End Manager
-**FanFix** - Beverly Hills, CA  
-**Nov 2022 – Present**
-
-- Led a remote front-end team to deliver high-quality applications.
-- Developed core functionalities including messaging, live streaming, and payment processing.
-- Designed a micro-front-end framework to enhance deployment scalability.
-
-### Senior Full Stack Developer (Contract)
-**ThermoFisher** - Carlsbad, CA  
-**Sep 2020 – Oct 2022**
-
-- Developed a distributed platform with React micro-front-ends and SSR using Next.js.
-- Enhanced form validation with Formik and Yup, improving UX.
-- Built reusable components with Material-UI and Redux-Saga.
-
-### Senior Full Stack Developer/Architect
-**CloudVirga** - Irvine, CA  
-**Nov 2017 – Sep 2020**
-
-- Architected a loan origination platform integrating multiple third-party services.
-- Developed RESTful microservices and responsive UI with React, SCSS, and Redux.
+- **Advanced State Management**: Skilled in complex state solutions using Redux and React Context API, with optimized rendering techniques using `useState`, `useEffect`, and `useMemo`.
+- **Performance & Optimization**: Experienced with RESTful APIs, GraphQL, lazy loading, and server-side rendering (SSR) with Next.js for optimal performance.
+- **UI & Architecture**: Skilled in JavaScript (ES6+), TypeScript, Styled Components, and Emotion for creating maintainable UI architectures.
+- **Tooling & Testing**: Proficient in Webpack, Babel, and ESLint for builds, with testing experience in Jest and React Testing Library.
+- **AI & Integrations**: Experienced in training AI models with TensorFlow and Hugging Face, and integrating Stripe, Calendly, and Mux for enhanced user experiences.
+- **Collaboration & Agile Development**: Strong background in agile methodologies, using GitHub, Jira, and Git workflows for collaborative development and PR reviews.
 
 ---
 
@@ -76,10 +23,57 @@
 
 ---
 
+## Professional Development & Key Learnings
+
+- Advanced React Proficiency: Mastered Redux, Redux-Toolkit, and React Router to build scalable applications.
+- UI Design and Implementation: Skilled in Material-UI and Styled-Components for user-friendly interfaces.
+- Performance Engineering: Optimized application performance with Webpack, Babel, and SSR in Next.js.
+- Testing and Quality Assurance: Expertise in unit and integration testing with React Testing Library, Jest, and Enzyme.
+- API Development and Integration: Built RESTful and GraphQL APIs for seamless data interactions.
+- Cloud Services Proficiency: Strong foundation in AWS, Google Cloud, and Firebase for deploying applications.
+- Database Management Experience: Expertise in relational database management with PostgreSQL and insights into NoSQL solutions.
+
+---
+
+## Notable Projects 📌
+
+1. **Node-MicroService**: API with JWT-based security and Dockerization for easy hosting.
+2. **React-Firebase**: React app for customer data management on Firebase.
+3. **React-Game**: Created a responsive board game with React.
+4. **Eager-Scrummer**: SCRUM sprint tracker for agile teams.
+5. **Tvmaze**: Movie search app using React-Redux for detailed movie info.
+
+---
+
+## Experience 🚀
+
+### Front-End Manager
+**FanFix** - Beverly Hills, CA (Nov 2022 - Present)
+- Led a remote front-end team, ensuring high-quality deliverables.
+- Developed core functionalities including messaging, live streaming, and payment processing.
+- Designed a micro-front-end framework for efficient and scalable deployment.
+
+### Senior Full Stack Developer (Contract)
+**ThermoFisher** - Carlsbad, CA (Sep 2020 - Oct 2022)
+- Built a distributed multi-language platform with SSR using Next.js.
+- Created reusable components with Material-UI and Redux-Saga, supporting backend data processing.
+
+### Senior Full Stack Developer/Architect
+**CloudVirga** - Irvine, CA (Nov 2017 - Sep 2020)
+- Architected a loan origination platform with React and Node microservices.
+- Developed RESTful microservices, enabling scalability and high performance.
+
+---
+
 ## Contact Me 📱
 
 - **Phone**: (949) 522-1879
 - **Email**: aliayman@alumni.harvard.edu
+- **GitHub**: [github.com/alialiayman](https://github.com/alialiayman) 🐙
+- **LinkedIn**: [linkedin.com/in/alialiayman](https://linkedin.com/in/alialiayman) 🤝
 
-Download my PDF resume
+---
+
+For the full resume, please see the PDF version:
+
 [ayman-resume.pdf](https://github.com/user-attachments/files/17608024/ayman-resume.pdf)
